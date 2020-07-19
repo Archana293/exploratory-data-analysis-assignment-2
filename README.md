@@ -1,4 +1,4 @@
-Peer-graded Assignment: Course Project 2* Introduction
+* Introduction
 
 Fine particulate matter (PM_{2.5}) is an ambient air pollutant for which there
 is strong evidence that it is harmful to human health. In the United States, the
